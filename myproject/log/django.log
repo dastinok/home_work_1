@@ -1,0 +1,36 @@
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 13
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 13
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 249
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2441
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 249
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2441
+"GET / HTTP/1.1" 200 249
+"GET /about HTTP/1.1" 301 0
+"GET /about/ HTTP/1.1" 200 131
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 249
+"GET /about/ HTTP/1.1" 200 157
+Not Found: /about/img/girl.jpg
+"GET /about/img/girl.jpg HTTP/1.1" 404 2462
+"GET /about/ HTTP/1.1" 200 159
+Not Found: /about/img/girl.jpg
+"GET /about/img/girl.jpg HTTP/1.1" 404 2462
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 249
+"GET /about/ HTTP/1.1" 200 167
+Not Found: /about/myproject/img/girl.jpg
+"GET /about/myproject/img/girl.jpg HTTP/1.1" 404 2492
+"GET / HTTP/1.1" 200 249
+"GET /about/ HTTP/1.1" 200 197
+"GET / HTTP/1.1" 200 345
+Not Found: /about.html
+"GET /about.html HTTP/1.1" 404 2438
+"GET /about/ HTTP/1.1" 200 197
+"GET / HTTP/1.1" 200 258
+"GET /about/ HTTP/1.1" 200 197
